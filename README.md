@@ -1,3 +1,6 @@
+Simple HTML website for practice writing boilerplates, adding links and images,
+using lists and to master git commits.
+
 ## Credits
 
 <ul>
